@@ -1,0 +1,22 @@
+[    
+    {
+        "id": 0,
+        "name": "SONify!",
+        "date": "2023-05-07T18:30",
+        "location": "Graz, KUG",
+        "eventUrl": "https://sonify.at/",
+        "ticketsUrl": "https://www.ticketone.com/",
+        "description": "Lorem ipsum",
+        "coverUrl": "https://picsum.photos/200/300"
+    },    
+    {
+        "id": 1,
+        "name": "Katze",
+        "date": "2023-07-04T21:00",
+        "location": "Berlin, Jazz Klub",
+        "eventUrl": "https://katze.de/",
+        "ticketsUrl": "https://www.dice.com/",
+        "description": "Sic dolor amet",
+        "coverUrl": "https://picsum.photos/200/300"
+    }
+]
