@@ -18,5 +18,15 @@
         "ticketsUrl": "https://www.dice.com/",
         "description": "Sic dolor amet",
         "coverUrl": "https://picsum.photos/200/300"
+    },
+    {
+        "id": 2,
+        "name": "Hund",
+        "date": "2023-07-05T22:00",
+        "location": "Berlin, Cafè Klub",
+        "eventUrl": "https://Hund.de/",
+        "ticketsUrl": "https://www.rosa.com/",
+        "description": "Sic dolor amet. Cazzo!",
+        "coverUrl": "https://picsum.photos/200/300"
     }
 ]
