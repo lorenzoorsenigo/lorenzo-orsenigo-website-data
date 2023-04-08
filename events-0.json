@@ -5,38 +5,35 @@
         "date": "2023-05-07T18:30",
         "location": "Graz, KUG",
         "eventUrl": "https://sonify.at/",
-        "ticketsUrl": "https://www.ticketone.com/",
-        "description": "Lorem ipsum",
-        "coverUrl": "https://picsum.photos/200/300"
-    },    
+        "description": "Solitude or Intimacy Do common connections in the sound and creative process of several musicians exist? How is each work created? How does each composer work with sound and the performance? How do sound and staging correlate within these works? Addressing some of the aforementioned questions, I will be presenting my personal interpretation of Gérard Grisey's Stéle for two dragged bass drums, performer and light bulbs.",
+        "coverUrl": "https://sonify.at/wp-content/themes/sonify/images/blaetter.png"
+    },  
     {
         "id": 1,
-        "name": "Katze",
-        "date": "2023-07-04T21:00",
-        "location": "Berlin, Jazz Klub",
-        "eventUrl": "https://katze.de/",
-        "ticketsUrl": "https://www.dice.com/",
-        "description": "Sic dolor amet",
-        "coverUrl": "https://picsum.photos/200/300"
-    },
+        "name": "Trio-Bio @ Mittleyoung",
+        "date": "2023-05-19T18:00",
+        "location": "Cividale del Friuli, Chiesa di Santa Maria dei Battuti",
+        "eventUrl": "https://www.mittelfest.org/mittelyoung/",
+        "ticketsUrl": "https://www.mittelfest.org/biglietti/",
+        "description": "Trio-Bio ((Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion; Lena Sophie Knapp, text and voice) presents the interdisciplinary performance series 'Träume sind die nächtlichen Spiegel der Seele' (English translation 'Dreams are the night mirrors of the soul'). Based on the assumption that we human beings are confronted with our innermost desires, our highest hopes and our darkest fears, and that dreams, compared to reality, have no limits to imagination, the trio wants to explore the field of different narratives during dreaming. With the Träume series, Trio-Bio aims to blur the boundaries between reality and dream. By creating utopias and dystopias through music, performance and text, they want to stimulate the audience's critical and personal reflection. Trio-Bio is currently expanding their repertoire to work on new episodes of the Träume series, focusing on various topics, such as the human impact on the environmental crisis on our lives.",
+        "coverUrl": "http://drive.google.com/uc?export=view&id=1sCPu89vmytHOMNY1eggRHRCxk4QpOI-s"
+    },  
     {
         "id": 2,
-        "name": "Hund",
-        "date": "2023-07-05T22:00",
-        "location": "Berlin, Cafè Klub",
-        "eventUrl": "https://Hund.de/",
-        "ticketsUrl": "https://www.rosa.com/",
-        "description": "Sic dolor amet. Cazzo!",
-        "coverUrl": "https://picsum.photos/200/300"
+        "name": "Duo Merors @ Riva San Vitale",
+        "date": "2023-08-27T17:00",
+        "location": "Riva San Vitale (CH)",
+        "eventUrl": "https://supportculture.migros.ch/de/veranstaltungen/concerto-duo-merors-chitarra-pecussioni/",
+        "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of classical and contempoorary music. A newly composed, collaboratively-devised piece by Turin-based composer Luca Mazzilli is also included in the program",
+        "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
     },
     {
         "id": 3,
-        "name": "Mice",
-        "date": "2023-07225T21:00",
-        "location": "London, Albert Hall",
-        "eventUrl": "https://mice-concert.uk/",
-        "ticketsUrl": "https://www.rosa.com/",
-        "description": "Bla",
-        "coverUrl": "https://picsum.photos/200/300"
+        "name": "Duo Merors @ Alte Schmiede, Wien",
+        "date": "2023-10-20T19:00",
+        "location": "Wien, Alte Schmiede",
+        "eventUrl": "https://alte-schmiede.at/programm-3",
+        "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of newly composed pieces by local composers, such as Yuheng Chen, Anna Wielend, Maria Pérez, Alireza Shahabolmolkfard, Mikolasek Michael.",
+        "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
     }
 ]
