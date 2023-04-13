@@ -35,5 +35,14 @@
         "eventUrl": "https://alte-schmiede.at/programm-3",
         "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of newly composed pieces by local composers, such as Yuheng Chen, Anna Wielend, Maria Pérez, Alireza Shahabolmolkfard, Mikolasek Michael.",
         "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
+    },
+    {
+        "id": 4,
+        "name": "Evento di Prova",
+        "date": "2023-01-01T19:00",
+        "location": "Paperopoli, Collina Ammazzamotori",
+        "eventUrl": "https://alte-schmiede.at/programm-3",
+        "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of newly composed pieces by local composers, such as Yuheng Chen, Anna Wielend, Maria Pérez, Alireza Shahabolmolkfard, Mikolasek Michael.",
+        "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
     }
 ]
