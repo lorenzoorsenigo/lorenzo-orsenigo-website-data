@@ -2,15 +2,15 @@
     "categories": [
         {
             "name": "Duo Merors",
-            "pictureUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/duo.jpeg"
         },
         {
             "name": "Solo",
-            "pictureUrl": "http://drive.google.com/uc?export=view&id=1CLaYrRJ-0TwyMfD6O-L0Mrox4r3dYyH"
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/solo.jpg"
         },
         {
             "name": "PhD",
-            "pictureUrl": "https://www.kug.ac.at/typo3conf/ext/uni_graz/Resources/Public/Images/Logos/kug-logo.svg"
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/kug-logo.png"
         }
     ],
     "projectsSummaries": [        
