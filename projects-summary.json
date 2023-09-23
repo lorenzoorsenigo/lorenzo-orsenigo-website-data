@@ -2,20 +2,20 @@
     "categories": [
         {
             "name": "Duo Merors",
-            "picture": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
+            "pictureUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
         },
         {
             "name": "Solo",
-            "picture": "http://drive.google.com/uc?export=view&id=1CLaYrRJ-0TwyMfD6O-L0Mrox4r3dYyH"
+            "pictureUrl": "http://drive.google.com/uc?export=view&id=1CLaYrRJ-0TwyMfD6O-L0Mrox4r3dYyH"
         },
         {
             "name": "PhD",
-            "picture": "https://www.kug.ac.at/typo3conf/ext/uni_graz/Resources/Public/Images/Logos/kug-logo.svg"
+            "pictureUrl": "https://www.kug.ac.at/typo3conf/ext/uni_graz/Resources/Public/Images/Logos/kug-logo.svg"
         }
     ],
-    "projects": [        
-        {"projectId": 0, "category": 0, "fileId": 0},
-        {"projectId": 1, "category": 1, "fileId": 0},
-        {"projectId": 2, "category": 2, "fileId": 0}
+    "projectsSummaries": [        
+        {"projectId": 0, "category": "Duo Merors", "fileId": 0},
+        {"projectId": 1, "category": "Solo", "fileId": 0},
+        {"projectId": 2, "category": "PhD", "fileId": 0}
     ]
 }
