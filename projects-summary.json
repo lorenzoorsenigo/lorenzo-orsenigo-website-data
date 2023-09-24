@@ -2,15 +2,18 @@
     "categories": [
         {
             "name": "Duo Merors",
-            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/duo.jpeg"
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/duo.jpeg",
+            "path": "/projects/duo"
         },
         {
             "name": "Solo",
-            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/solo.jpg"
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/solo.jpg",
+            "path": "/projects/solo"
         },
         {
             "name": "PhD",
-            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/kug-logo.png"
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/kug-logo.png",
+            "path": "/projects/phd"
         }
     ],
     "projectsSummaries": [        
