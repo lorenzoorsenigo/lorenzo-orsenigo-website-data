@@ -16,7 +16,7 @@
         "eventUrl": "https://www.mittelfest.org/spettacolo/i-sogni-sono-gli-specchi-notturni-dellanima/",
         "ticketsUrl": "https://www.vivaticket.com/it/ticket/i-sogni-sono-gli-specchi-notturni-dell-anima/205543",
         "description": "Trio-Bio ((Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion; Lena Sophie Knapp, text and voice) presents the interdisciplinary performance series 'Träume sind die nächtlichen Spiegel der Seele' (English translation 'Dreams are the night mirrors of the soul'). Based on the assumption that we human beings are confronted with our innermost desires, our highest hopes and our darkest fears, and that dreams, compared to reality, have no limits to imagination, the trio wants to explore the field of different narratives during dreaming. With the Träume series, Trio-Bio aims to blur the boundaries between reality and dream. By creating utopias and dystopias through music, performance and text, they want to stimulate the audience's critical and personal reflection. Trio-Bio is currently expanding their repertoire to work on new episodes of the Träume series, focusing on various topics, such as the human impact on the environmental crisis on our lives.",
-        "coverUrl": "http://drive.google.com/uc?export=view&id=1sCPu89vmytHOMNY1eggRHRCxk4QpOI-s"
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/trio.jpeg"
     },  
     {
         "id": 2,
@@ -25,7 +25,7 @@
         "location": "Riva San Vitale (CH)",
         "eventUrl": "https://supportculture.migros.ch/de/veranstaltungen/concerto-duo-merors-chitarra-pecussioni/",
         "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of classical and contempoorary music. A newly composed, collaboratively-devised piece by Turin-based composer Luca Mazzilli is also included in the program",
-        "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/duo.jpeg"
     },
     {
         "id": 3,
@@ -34,7 +34,7 @@
         "location": "Wien, Alte Schmiede",
         "eventUrl": "https://alte-schmiede.at/programm-3",
         "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of newly composed pieces by local composers, such as Yuheng Chen, Anna Wielend, Maria Pérez, Alireza Shahabolmolkfard, Mikolasek Michael.",
-        "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/duo.jpeg"
     },
     {
         "id": 4,
@@ -43,7 +43,7 @@
         "location": "Villa Borletti, Origgio (VA)",
         "eventUrl": "https://www.borlettioriggio.it/stagione-musicale-2022-2023/",
         "description": "Duo Merors (Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion) presents a concert of original and arranged music for guitar and percussion.",
-        "coverUrl": "http://drive.google.com/uc?export=view&id=1VDs-eS_Hxedusrvu_5dpIBnrgkT-HeiH"
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/duo.jpeg"
     },
     {
         "id": 5,
@@ -52,10 +52,10 @@
         "location": "Großer Saal, Anton Bruckner Private University, Linz",
         "eventUrl": "https://www.bruckneruni.at/de/veranstaltungen/aktuelle-veranstaltungen/detail?tx_gtncachedevents_events%5Baction%5D=show&tx_gtncachedevents_events%5Bcontroller%5D=Event&tx_gtncachedevents_events%5Bevent%5D=3806630&cHash=37c0018862c7f56b34c8ce306b970a34",
         "description": "Verena Merstallinger plays her MA Abschulsskonzert featuring Lorenzo Orsenigo. Works by Schulz, D'Angelo, Storsveen, Rodero Gil, Hisaishi, Villa-Lobos.",
-        "coverUrl": "http://drive.google.com/uc?export=view&id=1lwpka5a5C-EbEAF1Mw_ULckiJeHlww76"
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/konfrontationen.png"
     },
     {
-    "id": 6,
+        "id": 6,
         "name": "Concerto di Capodanno - OAV",
         "date": "2023-01-02T17:00",
         "location": "Pentagono, Bormio (SO)",
