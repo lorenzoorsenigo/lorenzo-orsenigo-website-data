@@ -1,4 +1,4 @@
-[    
+[
     {
         "id": 0,
         "name": "SONify!",
@@ -7,7 +7,7 @@
         "eventUrl": "https://sonify.at/",
         "description": "Solitude or Intimacy Do common connections in the sound and creative process of several musicians exist? How is each work created? How does each composer work with sound and the performance? How do sound and staging correlate within these works? Addressing some of the aforementioned questions, I will be presenting my personal interpretation of Gérard Grisey's Stéle for two dragged bass drums, performer and light bulbs.",
         "coverUrl": "https://sonify.at/wp-content/themes/sonify/images/blaetter.png"
-    },  
+    },
     {
         "id": 1,
         "name": "Trio-Bio @ Mittleyoung",
@@ -17,7 +17,7 @@
         "ticketsUrl": "https://www.vivaticket.com/it/ticket/i-sogni-sono-gli-specchi-notturni-dell-anima/205543",
         "description": "Trio-Bio ((Verena Merstallinger, guitar; Lorenzo Orsenigo, percussion; Lena Sophie Knapp, text and voice) presents the interdisciplinary performance series 'Träume sind die nächtlichen Spiegel der Seele' (English translation 'Dreams are the night mirrors of the soul'). Based on the assumption that we human beings are confronted with our innermost desires, our highest hopes and our darkest fears, and that dreams, compared to reality, have no limits to imagination, the trio wants to explore the field of different narratives during dreaming. With the Träume series, Trio-Bio aims to blur the boundaries between reality and dream. By creating utopias and dystopias through music, performance and text, they want to stimulate the audience's critical and personal reflection. Trio-Bio is currently expanding their repertoire to work on new episodes of the Träume series, focusing on various topics, such as the human impact on the environmental crisis on our lives.",
         "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/trio.jpeg"
-    },  
+    },
     {
         "id": 2,
         "name": "Duo Merors @ Riva San Vitale",
@@ -71,5 +71,131 @@
         "eventUrl": "https://www.orchestravivaldi.org/stagionesondrio",
         "description": "Works by Copland, Bernstein, Pedraglio, J. Strauss.",
         "coverUrl": "https://static.wixstatic.com/media/7a6459_e9697be4a2914c81a748bb0cd7aac357~mv2.jpg/v1/fill/w_959,h_868,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/7a6459_e9697be4a2914c81a748bb0cd7aac357~mv2.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Conferenza sulla tecnologia futuristica",
+        "date": "2023-02-15T14:30",
+        "location": "Centro Congressi, Milano",
+        "eventUrl": "https://www.eventotech.com/conferenza",
+        "description": "Esplora le tecnologie del futuro e le loro implicazioni.",
+        "coverUrl": "https://picsum.photos/500/500"
+    },
+    {
+        "id": 9,
+        "name": "Festival del cinema indipendente",
+        "date": "2023-03-20T19:00",
+        "location": "Cinema Paradiso, Roma",
+        "eventUrl": "https://www.festivalcinemaindipendente.it",
+        "description": "Una selezione di film indipendenti da tutto il mondo.",
+        "coverUrl": "https://picsum.photos/500/501"
+    },
+    {
+        "id": 10,
+        "name": "Mostra d'arte contemporanea",
+        "date": "2023-04-10T11:00",
+        "location": "Galleria Moderna, Firenze",
+        "eventUrl": "https://www.mostraartecontemporanea.it",
+        "description": "Opere d'arte contemporanea da artisti emergenti.",
+        "coverUrl": "https://picsum.photos/500/502"
+    },
+    {
+        "id": 11,
+        "name": "Seminario di sviluppo personale",
+        "date": "2023-05-05T16:30",
+        "location": "Centro Benessere, Napoli",
+        "eventUrl": "https://www.seminariosviluppopersonale.com",
+        "description": "Scopri nuovi modi per migliorare la tua vita.",
+        "coverUrl": "https://picsum.photos/500/503"
+    },
+    {
+        "id": 12,
+        "name": "Conferenza sull'ambiente",
+        "date": "2023-06-18T10:00",
+        "location": "Centro Ambientale, Torino",
+        "eventUrl": "https://www.conferenzaambiente.it",
+        "description": "Discutiamo delle sfide ambientali del nostro tempo.",
+        "coverUrl": "https://picsum.photos/500/504"
+    },
+    {
+        "id": 12,
+        "name": "Esibizione di danza contemporanea",
+        "date": "2023-07-09T20:00",
+        "location": "Teatro Moderno, Bologna",
+        "eventUrl": "https://www.danzacontemporanea.it",
+        "description": "Performance emozionanti di danza contemporanea.",
+        "coverUrl": "https://picsum.photos/500/505"
+    },
+    {
+        "id": 14,
+        "name": "Fiera del libro internazionale",
+        "date": "2023-08-30T09:00",
+        "location": "Fiera Milano, Rho",
+        "eventUrl": "https://www.fieralibrointernazionale.it",
+        "description": "Incontra autori famosi e scopri nuovi libri.",
+        "coverUrl": "https://picsum.photos/500/506"
+    },
+    {
+        "id": 15,
+        "name": "Conferenza sulle tecnologie emergenti",
+        "date": "2023-09-21T15:00",
+        "location": "Centro Tecnologico, Genova",
+        "eventUrl": "https://www.conferenzatecnologie.it",
+        "description": "Esplora le ultime innovazioni tecnologiche.",
+        "coverUrl": "https://picsum.photos/500/507"
+    },
+    {
+        "id": 16,
+        "name": "Festival della gastronomia",
+        "date": "2023-10-15T12:00",
+        "location": "Piazza del Gusto, Palermo",
+        "eventUrl": "https://www.festivalgastronomia.it",
+        "description": "Assapora prelibatezze culinarie da tutto il mondo.",
+        "coverUrl": "https://picsum.photos/500/508"
+    },
+    {
+        "id": 11,
+        "name": "Seminario di Innovazione Tecnologica",
+        "date": "2023-11-25T14:00",
+        "location": "Centro Congressi, Firenze",
+        "eventUrl": "https://www.seminarioinnovazione.it",
+        "description": "Esplora le ultime tendenze tecnologiche.",
+        "coverUrl": "https://picsum.photos/500/509"
+    },
+    {
+        "id": 12,
+        "name": "Concerto Classico all'Aperto",
+        "date": "2023-12-10T18:30",
+        "location": "Piazza della Musica, Verona",
+        "eventUrl": "https://www.concertoclassico.it",
+        "description": "Eseguito dalla famosa orchestra sinfonica.",
+        "coverUrl": "https://picsum.photos/500/510"
+    },
+    {
+        "id": 13,
+        "name": "Mostra di Fotografia Contemporanea",
+        "date": "2024-01-15T11:00",
+        "location": "Galleria Fotografica, Milano",
+        "eventUrl": "https://www.mostrafotografia.it",
+        "description": "Opere fotografiche contemporanee da artisti di talento.",
+        "coverUrl": "https://picsum.photos/500/511"
+    },
+    {
+        "id": 14,
+        "name": "Conferenza sull'Energia Rinnovabile",
+        "date": "2024-02-20T09:30",
+        "location": "Centro Energetico, Bari",
+        "eventUrl": "https://www.conferenzaenergia.it",
+        "description": "Scopri le soluzioni energetiche sostenibili del futuro.",
+        "coverUrl": "https://picsum.photos/500/512"
+    },
+    {
+        "id": 15,
+        "name": "Festival dell'Arte Moderna",
+        "date": "2024-03-05T15:00",
+        "location": "Museo d'Arte Moderna, Napoli",
+        "eventUrl": "https://www.festivalartemoderna.it",
+        "description": "Celebrazione dell'arte moderna in tutte le sue forme.",
+        "coverUrl": "https://picsum.photos/500/513"
     }
 ]
