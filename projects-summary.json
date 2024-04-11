@@ -11,7 +11,7 @@
             "path": "/projects/solo"
         },
         {
-            "name": "PhD",
+            "name": "Research",
             "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/kug-logo.png",
             "path": "/projects/phd"
         }
@@ -19,6 +19,6 @@
     "projectsSummaries": [        
         {"projectId": 0, "category": "Duo Merors", "fileId": 0},
         {"projectId": 1, "category": "Solo", "fileId": 0},
-        {"projectId": 2, "category": "PhD", "fileId": 0}
+        {"projectId": 2, "category": "Research", "fileId": 0}
     ]
 }

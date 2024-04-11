@@ -197,5 +197,23 @@
         "eventUrl": "https://www.festivalartemoderna.it",
         "description": "Celebrazione dell'arte moderna in tutte le sue forme.",
         "coverUrl": "https://picsum.photos/500/513"
+    },
+    {
+        "id": 22,
+        "name": "Ensemble Kontrapunkte",
+        "date": "2024-04-08T19:30",
+        "location": "Musikverein, Glaeserner Saal, Wien",
+        "eventUrl": "https://www.musikverein.at/konzert/?id=000564f0",
+        "description": "Music by Muhli, Thomas, Antheil, Eichberg",
+        "coverUrl": "https://spielplan.musikverein.at/enrichment/uploads/pictures/concert/Gottfried_Rabl_c_Maria_Frodl.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Ensemble ARTIFEX",
+        "date": "2024-03-12T19:30",
+        "location": "Herman Markus Pressl-Saal, KUG, Graz",
+        "eventUrl": "",
+        "description": "Music by Grisey, Azzan, Korsun",
+        "coverUrl": ""
     }
 ]
