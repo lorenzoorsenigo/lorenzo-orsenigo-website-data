@@ -2,7 +2,7 @@
     "categories": [
         {
             "name": "Duo Merors",
-            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/DuoMerors_1.jpg",
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/DuoMerors_1.jpg",
             "path": "/projects/duo"
         },
         {
@@ -12,7 +12,7 @@
         },
         {
             "name": "Research",
-            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg",
+            "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/Research_Lorenzo_.jpg",
             "path": "/projects/Research"
         }
     ],
