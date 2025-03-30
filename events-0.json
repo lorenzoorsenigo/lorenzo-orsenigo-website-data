@@ -74,132 +74,6 @@
     },
     {
         "id": 8,
-        "name": "Conferenza sulla tecnologia futuristica",
-        "date": "2023-02-15T14:30",
-        "location": "Centro Congressi, Milano",
-        "eventUrl": "https://www.eventotech.com/conferenza",
-        "description": "Esplora le tecnologie del futuro e le loro implicazioni.",
-        "coverUrl": "https://picsum.photos/500/500"
-    },
-    {
-        "id": 9,
-        "name": "Festival del cinema indipendente",
-        "date": "2023-03-20T19:00",
-        "location": "Cinema Paradiso, Roma",
-        "eventUrl": "https://www.festivalcinemaindipendente.it",
-        "description": "Una selezione di film indipendenti da tutto il mondo.",
-        "coverUrl": "https://picsum.photos/500/501"
-    },
-    {
-        "id": 10,
-        "name": "Mostra d'arte contemporanea",
-        "date": "2023-04-10T11:00",
-        "location": "Galleria Moderna, Firenze",
-        "eventUrl": "https://www.mostraartecontemporanea.it",
-        "description": "Opere d'arte contemporanea da artisti emergenti.",
-        "coverUrl": "https://picsum.photos/500/502"
-    },
-    {
-        "id": 11,
-        "name": "Seminario di sviluppo personale",
-        "date": "2023-05-05T16:30",
-        "location": "Centro Benessere, Napoli",
-        "eventUrl": "https://www.seminariosviluppopersonale.com",
-        "description": "Scopri nuovi modi per migliorare la tua vita.",
-        "coverUrl": "https://picsum.photos/500/503"
-    },
-    {
-        "id": 12,
-        "name": "Conferenza sull'ambiente",
-        "date": "2023-06-18T10:00",
-        "location": "Centro Ambientale, Torino",
-        "eventUrl": "https://www.conferenzaambiente.it",
-        "description": "Discutiamo delle sfide ambientali del nostro tempo.",
-        "coverUrl": "https://picsum.photos/500/504"
-    },
-    {
-        "id": 13,
-        "name": "Esibizione di danza contemporanea",
-        "date": "2023-07-09T20:00",
-        "location": "Teatro Moderno, Bologna",
-        "eventUrl": "https://www.danzacontemporanea.it",
-        "description": "Performance emozionanti di danza contemporanea.",
-        "coverUrl": "https://picsum.photos/500/505"
-    },
-    {
-        "id": 14,
-        "name": "Fiera del libro internazionale",
-        "date": "2023-08-30T09:00",
-        "location": "Fiera Milano, Rho",
-        "eventUrl": "https://www.fieralibrointernazionale.it",
-        "description": "Incontra autori famosi e scopri nuovi libri.",
-        "coverUrl": "https://picsum.photos/500/506"
-    },
-    {
-        "id": 15,
-        "name": "Conferenza sulle tecnologie emergenti",
-        "date": "2023-09-21T15:00",
-        "location": "Centro Tecnologico, Genova",
-        "eventUrl": "https://www.conferenzatecnologie.it",
-        "description": "Esplora le ultime innovazioni tecnologiche.",
-        "coverUrl": "https://picsum.photos/500/507"
-    },
-    {
-        "id": 16,
-        "name": "Festival della gastronomia",
-        "date": "2023-10-15T12:00",
-        "location": "Piazza del Gusto, Palermo",
-        "eventUrl": "https://www.festivalgastronomia.it",
-        "description": "Assapora prelibatezze culinarie da tutto il mondo.",
-        "coverUrl": "https://picsum.photos/500/508"
-    },
-    {
-        "id": 17,
-        "name": "Seminario di Innovazione Tecnologica",
-        "date": "2023-11-25T14:00",
-        "location": "Centro Congressi, Firenze",
-        "eventUrl": "https://www.seminarioinnovazione.it",
-        "description": "Esplora le ultime tendenze tecnologiche.",
-        "coverUrl": "https://picsum.photos/500/509"
-    },
-    {
-        "id": 18,
-        "name": "Concerto Classico all'Aperto",
-        "date": "2023-12-10T18:30",
-        "location": "Piazza della Musica, Verona",
-        "eventUrl": "https://www.concertoclassico.it",
-        "description": "Eseguito dalla famosa orchestra sinfonica.",
-        "coverUrl": "https://picsum.photos/500/510"
-    },
-    {
-        "id": 19,
-        "name": "Mostra di Fotografia Contemporanea",
-        "date": "2024-01-15T11:00",
-        "location": "Galleria Fotografica, Milano",
-        "eventUrl": "https://www.mostrafotografia.it",
-        "description": "Opere fotografiche contemporanee da artisti di talento.",
-        "coverUrl": "https://picsum.photos/500/511"
-    },
-    {
-        "id": 20,
-        "name": "Conferenza sull'Energia Rinnovabile",
-        "date": "2024-02-20T09:30",
-        "location": "Centro Energetico, Bari",
-        "eventUrl": "https://www.conferenzaenergia.it",
-        "description": "Scopri le soluzioni energetiche sostenibili del futuro.",
-        "coverUrl": "https://picsum.photos/500/512"
-    },
-    {
-        "id": 21,
-        "name": "Festival dell'Arte Moderna",
-        "date": "2024-03-05T15:00",
-        "location": "Museo d'Arte Moderna, Napoli",
-        "eventUrl": "https://www.festivalartemoderna.it",
-        "description": "Celebrazione dell'arte moderna in tutte le sue forme.",
-        "coverUrl": "https://picsum.photos/500/513"
-    },
-    {
-        "id": 22,
         "name": "Ensemble Kontrapunkte",
         "date": "2024-04-08T19:30",
         "location": "Musikverein, Glaeserner Saal, Wien",
@@ -208,12 +82,129 @@
         "coverUrl": "https://spielplan.musikverein.at/enrichment/uploads/pictures/concert/Gottfried_Rabl_c_Maria_Frodl.jpg"
     },
     {
-        "id": 23,
+        "id": 9,
         "name": "Ensemble ARTIFEX",
         "date": "2024-03-12T19:30",
         "location": "Herman Markus Pressl-Saal, KUG, Graz",
         "eventUrl": "",
         "description": "Music by Grisey, Azzan, Korsun",
         "coverUrl": ""
+    },
+    {
+        "id": 10,
+        "name": "mdw Spring School | Sonic Dialogues: Intersections of Art and Sound in Public Spaces",
+        "date": "2024-06-12",
+        "location": "mdw, Wien",
+        "eventUrl": "https://www.researchcatalogue.net/portal/announcement?announcement=2633215",
+        "description": "Presentation: 'Artistic Hacking. On public performance venues as _loci_ of transformative encounters'",
+        "coverUrl": "https://www.mdw.ac.at/magazin/new/wp-content/uploads/2024/09/spring-school-c-stp-print-032-7684.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Artistic Research Session",
+        "date": "2024-07-03",
+        "location": "KUG, Graz",
+        "eventUrl": "",
+        "description": "Collaboration with composer Juta Pranulyte",
+        "coverUrl": "https://images.squarespace-cdn.com/content/v1/65d22163ff93cf5cc8876b77/2a10c936-fea1-49be-9ea4-908a219bacc6/BW9.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Trio Bio: Experimentation and Research Session",
+        "date": "2024-07-24",
+        "location": "DH5, Linz",
+        "eventUrl": "",
+        "description": "Collaboration with guitarist and theater scholar Svetoslav Stoychev",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/trio.jpeg"
+    },
+    {
+        "id": 13,
+        "name": "ARTikulationen 2024. A Festival of Artistic Research",
+        "date": "2024-10-02",
+        "location": "KUG, Graz",
+        "eventUrl": "https://www.researchcatalogue.net/view/2920331/2940584",
+        "description": "Presentation and participatory performance",
+        "coverUrl": "https://doctorartium.kug.ac.at/fileadmin/_processed_/a/0/csm_2024_ARTikulationen_daef2f1116.webp"
+    },
+    {
+        "id": 14,
+        "name": "Texte & Töne 2024",
+        "date": "2024-11-09T15:00",
+        "location": "ORF, Bregenz",
+        "eventUrl": "https://vorarlberg.orf.at/studio/stories/3279814/",
+        "description": "Meow-Mouth by Juta Pranulyte - World Premier",
+        "coverUrl": "https://images.squarespace-cdn.com/content/v1/65d22163ff93cf5cc8876b77/2a10c936-fea1-49be-9ea4-908a219bacc6/BW9.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Solo Concert",
+        "date": "2024-11-18T19:30",
+        "location": "Kultum Graz",
+        "eventUrl": "https://www.kultum.at/einrichtung/137/kalender/calendar/2200315.html",
+        "description": "Music by Feldman, Grisey, Pranulyte",
+        "coverUrl": "https://www.kultum.at/img/53/d7/14eb217588cb733d73ac/-Hacking_26.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Lizard Ensemble @ Limina Festival",
+        "date": "2024-11-30T20:00",
+        "location": "Mozarteum University, Salzburg",
+        "eventUrl": "http://limina.moz.ac.at/",
+        "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
+        "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Trio-Bio feat. Nika Sarajlija",
+        "date": "2024-12-14T17:00",
+        "location": "Brucknerhaus, Linz",
+        "eventUrl": "https://www.brucknerhaus.at/programm/veranstaltungen/musikalischer-adventkalender-2024-14.12.2024-17-00",
+        "description": "'Tischgespräche. Ausschnitte aus dem Leben eines Tisches' - Interdisciplinary Performance",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/trio.jpeg"
+    },
+    {
+        "id": 18,
+        "name": "Grenzen - Lizard Ensemble",
+        "date": "2025-02-19T19:30",
+        "location": "Saal der Landesmusikschule Marchtrenk (AT)",
+        "eventUrl": "https://lizardensemble.com/blog/2025/02/09/grenzen/",
+        "description": "Music by Tjøgersen, Leitner, Roth, Habibian, Villoslada Duran and Pérez Díez",
+        "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Grenzen - Lizard Ensemble",
+        "date": "2025-02-21T20:00",
+        "location": "NDR Konzerthaus, Kleiner Sendesaal, Hannover (DE)",
+        "eventUrl": "https://www.ndr.de/orchester_chor/radiophilharmonie/konzerte/Musik-213-Ensemble-Lizard,lizard104.html",
+        "description": "Music by Tjøgersen, Leitner, Roth, Habibian, Villoslada Duran and Pérez Díez",
+        "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Ar@k International Conference for Artistic Research",
+        "date": "2025-03-17",
+        "location": "Kristiania University College, Oslo (NO)",
+        "eventUrl": "https://www.researchcatalogue.net/view/2421554/2674688",
+        "description": "Presentation: 'Standard and truthful, or alternative and creative..? Artistic Hacking as a method to challenge one-truth approaches to (music) interpretation",
+        "coverUrl": "https://www.kristiania.no/contentassets/959968459d6648c8ae26ba2758937537/rustad-arak.jpg?width=1440"
+    },
+    {
+        "id": 21,
+        "name": "Why Listening? - Intermedia Installation",
+        "date": "2025-03-26",
+        "location": "ESC medien kunst labor Graz",
+        "eventUrl": "https://esc.mur.at/en/projekt/our-next-guest-why-listening",
+        "description": "A Hacked Interpretation of Vinko Globokar's ?Corporel (1985) through Pauline Oliveros' meditations (1971 - 2016)",
+        "coverUrl": "https://github.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/blob/9d285133c1b436accaf8bbcee5762543f62ee479/img/globokar-oliveros.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Saison 2025 KORPUS III: SKIN - Schallfeld Ensemble",
+        "date": "2025-05-24",
+        "location": "Minoriten Saal, Graz",
+        "eventUrl": "https://www.schallfeldensemble.com/de/event/saison-2025-korpus-iii/",
+        "description": "Music by Saunders",
+        "coverUrl": "https://www.schallfeldensemble.com/wp-content/uploads/schallfeld5.jpg"
     }
 ]
