@@ -1,22 +1,22 @@
 [
   {
     "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/stele-gerard-grisey.png",
-    "path": "/projects/phd/stele-gerard-grisey",
+    "path": "/projects/research/stele-gerard-grisey",
     "name": "Stéle, Gèrard Grisey"
   },
   {
     "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/the-king-of-denmark-morton-feldman.png",
-    "path": "/projects/phd/feldman",
+    "path": "/projects/research/feldman",
     "name": "The King of Denmark, Morton Feldman"
   },
   {
     "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/globokar-oliveros.jpg",
-    "path": "/projects/phd/globokar-oliveros",
+    "path": "/projects/research/globokar-oliveros",
     "name": "Globokar-Oliveros"
   },
   {
     "pictureUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/meow-mouth-juta-pranulyte.png",
-    "path": "/projects/phd/pranulyte",
+    "path": "/projects/research/pranulyte",
     "name": "Meow-Mouth, Juta Pranulyte"
   }
 ]
