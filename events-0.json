@@ -206,5 +206,23 @@
         "eventUrl": "https://www.schallfeldensemble.com/de/event/saison-2025-korpus-iii/",
         "description": "Music by Saunders",
         "coverUrl": "https://www.schallfeldensemble.com/wp-content/uploads/schallfeld5.jpg"
+    },
+    {
+        "id": 23,
+        "name": "We Left Babel",
+        "date": "2025-06-13",
+        "location": "Lentos Kunstmuseum, Linz",
+        "eventUrl": "https://www.lentos.at/programm/calender/musiktheaterlabor-dont-you-want-a-warm-embrace-2",
+        "description": "'Don't you want a warm embrace?' is a Musiktheaterlabor by the composition students of Anton Bruckner Private University Linz (class. Prof. Francois Sarhan)",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Babel.jpeg"
+    },
+    {
+        "id": 24,
+        "name": "We Left Babel",
+        "date": "2025-06-14",
+        "location": "Lentos Kunstmuseum, Linz",
+        "eventUrl": "https://www.lentos.at/programm/calender/musiktheaterlabor-dont-you-want-a-warm-embrace-2",
+        "description": "'Don't you want a warm embrace?' is a Musiktheaterlabor by the composition students of Anton Bruckner Private University Linz (class. Prof. Francois Sarhan)",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Babel.jpeg"
     }
 ]
