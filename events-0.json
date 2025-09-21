@@ -224,5 +224,23 @@
         "eventUrl": "https://www.lentos.at/programm/calender/musiktheaterlabor-dont-you-want-a-warm-embrace-2",
         "description": "'Don't you want a warm embrace?' is a Musiktheaterlabor by the composition students of Anton Bruckner Private University Linz (class. Prof. Francois Sarhan)",
         "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Babel.jpeg"
+    },
+    {
+        "id": 25,
+        "name": "Cassandra v.1.0.3025“ von Alisa Kobzar",
+        "date": "2025-09-14",
+        "location": "Oesterreichischer Skulpturenpark, Graz",
+        "eventUrl": "https://www.museum-joanneum.at/skulpturenpark/unser-programm/ausstellungen/skulpturenpark/event/sound-park-fest-im-skulpturenpark",
+        "description": "Gehen. Hören. Entdecken. Performance-Tour. Mit dem Kollektiv Seven Circles: Elina Viļuma-Helling (Gesang), Lorenzo Orsenigo (Schlagzeug), Alexandra Škrilec,(Flöten), Anna Grenzner (Violoncello), Judith Selenko (Visuelles Design)",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Cassandra_Kobzar.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Lizard Ensemble @ 2k+ Festival",
+        "date": "2025-11-21",
+        "location": "Novi Sad (SRB)",
+        "eventUrl": "https://zkv.rs/2kplus/2k-2/",
+        "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
+        "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
     }
 ]
