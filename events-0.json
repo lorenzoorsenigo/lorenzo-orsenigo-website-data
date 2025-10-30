@@ -242,5 +242,14 @@
         "eventUrl": "https://zkv.rs/2kplus/2k-2/",
         "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
         "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
+    },
+     {
+        "id": 27,
+        "name": "Lizard Ensemble",
+        "date": "2025-11-13T18:00",
+        "location": "Saal der Landesmusikschule Sierning (AUT)",
+        "eventUrl": "https://lizardensemble.com/blog/2025/10/12/co-operationen/",
+        "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
+        "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
     }
 ]
