@@ -105,7 +105,7 @@
         "date": "2024-07-03",
         "location": "KUG, Graz",
         "eventUrl": "",
-        "description": "Collaboration with composer Juta Pranulyte",
+        "description": "Collaboration with composer Juta Pranulytė",
         "coverUrl": "https://images.squarespace-cdn.com/content/v1/65d22163ff93cf5cc8876b77/2a10c936-fea1-49be-9ea4-908a219bacc6/BW9.jpg"
     },
     {
@@ -132,7 +132,7 @@
         "date": "2024-11-09T15:00",
         "location": "ORF, Bregenz",
         "eventUrl": "https://vorarlberg.orf.at/studio/stories/3279814/",
-        "description": "Meow-Mouth by Juta Pranulyte - World Premier",
+        "description": "Meow-Mouth by Juta Pranulytė - World Premier",
         "coverUrl": "https://images.squarespace-cdn.com/content/v1/65d22163ff93cf5cc8876b77/2a10c936-fea1-49be-9ea4-908a219bacc6/BW9.jpg"
     },
     {
@@ -141,7 +141,7 @@
         "date": "2024-11-18T19:30",
         "location": "Kultum Graz",
         "eventUrl": "https://www.kultum.at/einrichtung/137/kalender/calendar/2200315.html",
-        "description": "Music by Feldman, Grisey, Pranulyte",
+        "description": "Music by Feldman, Grisey, Pranulytė",
         "coverUrl": "https://www.kultum.at/img/53/d7/14eb217588cb733d73ac/-Hacking_26.jpg"
     },
     {
@@ -243,7 +243,7 @@
         "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
         "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
     },
-     {
+    {
         "id": 27,
         "name": "Lizard Ensemble",
         "date": "2025-11-13T18:00",
@@ -251,5 +251,69 @@
         "eventUrl": "https://lizardensemble.com/blog/2025/10/12/co-operationen/",
         "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
         "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
+    },
+    {
+        "id": 28,
+        "name": "About Normal and Right - Verena Merstallinger CD's presentation",
+        "date": "2025-12-14T16:00",
+        "location": "Kunstgarten, Graz (AUT)",
+        "eventUrl": "https://kunstgarten.at/events/album-praesentation-concerning-normal-and-right/",
+        "description": "Music by I. Gil, S. Pratt, A. Shahabolmolkfard",
+        "coverUrl": "https://www.trekel.de/res/user/trekel/media/13466.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Lizard Ensemble",
+        "date": "2026-01-20T13:00",
+        "location": "Kunst Universität Linz (AUT)",
+        "eventUrl": "https://lizardensemble.com/blog/2025/10/12/co-operationen/",
+        "description": "Workshop mit Studierende",
+        "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Die Neuen - Group Exhibition",
+        "date": "2026-01-20T19:00",
+        "location": "Die Kunstschaffenden, Linz (AUT)",
+        "eventUrl": "https://www.diekunstschaffenden.at/",
+        "description": "Why Listening? A Hacked Interpretation of Vinko Globokar's ?Corporel (1985) through Pauline Oliveros' meditations (1971 - 2016) - Intermedia Installation (partial)",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/main/img/globokar-oliveros.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Resonances - A Feedback in Between",
+        "date": "2026-06-12",
+        "location": "Schlossbunker Ebelsberg, Linz (AUT)",
+        "eventUrl": "https://www.instagram.com/schlossbunker/",
+        "description": "Solo Concert - Music by S. Stefanovic (premier), P. Matthusen, J. Pranulytė and improvisations",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Resonances - A Feedback in Between",
+        "date": "2026-11-12T19:30",
+        "location": "Kultum, Graz (AUT)",
+        "eventUrl": "",
+        "description": "Solo Concert and CD Release - Music by M. Ciciliani (premier), H. Kerschbaumer (premier) S. Stefanovic, A. Kobzar (premier), W. Olencki (premier), J. Pranulytė",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Resonances - A Feedback in Between",
+        "date": "2026-12-10T19:30",
+        "location": "Röda, Steyr (AUT)",
+        "eventUrl": "",
+        "description": "Solo Concert and CD Release - Music by Music by M. Ciciliani, H. Kerschbaumer S. Stefanovic, A. Kobzar, W. Olencki, J. Pranulytė",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
+    },
+    {
+        "id": 34,
+        "name": "enuntiatio.praefatio.formulae",
+        "date": "2026-06-22",
+        "end date": "2026-06-27",
+        "location": "Bled (SK)",
+        "eventUrl": "",
+        "description": "Artistic Research Presentation and Contemporary Music Festival",
+        "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
     }
 ]
