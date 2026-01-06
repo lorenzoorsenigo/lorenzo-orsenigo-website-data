@@ -263,11 +263,11 @@
     },
     {
         "id": 29,
-        "name": "Workshop with Lizard Ensemble",
+        "name": "Lizard Ensemble",
         "date": "2026-01-20T14:00",
         "location": "Kunst Universität Linz (AUT)",
         "eventUrl": "",
-        "description": "Workshop mit Studierende",
+        "description": "Workshop with students of the Kunst Universität Linz",
         "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
     },
     {
@@ -320,7 +320,7 @@
         "id": 35,
         "name": "Ensemble Kontrapunkte",
         "date": "2026-02-16T19:30",
-        "location": " Musikverein, Glaeserner Saal, Wien",
+        "location": "Musikverein, Glaeserner Saal, Wien",
         "eventUrl": "https://www.kontrapunkte.at/kalender",
         "description": "Music by Milhaub, Babbit, Karpman, Bentzon, Schmitt, Françaix",
         "coverUrl": "https://spielplan.musikverein.at/enrichment/uploads/pictures/concert/Gottfried_Rabl_c_Maria_Frodl.jpg"
