@@ -239,7 +239,7 @@
         "name": "Lizard Ensemble @ 2k+ Festival",
         "date": "2025-11-21",
         "location": "Novi Sad (SRB)",
-        "eventUrl": "https://zkv.rs/2kplus/2k-2/",
+        "eventUrl": "https://zkv.rs/2kplus/2025/11/20/lizard-ensemble/",
         "description": "Music by Uğurlu, Roth, Rizza, Cossidente, Lee, Gimenez-Comas",
         "coverUrl": "https://lizardensemble.com/wp-content/uploads/2023/03/Lizard-Bild-4-1.jpg"
     },
@@ -263,8 +263,8 @@
     },
     {
         "id": 29,
-        "name": "Lizard Ensemble",
-        "date": "2026-01-20T13:00",
+        "name": "Workshop with Lizard Ensemble",
+        "date": "2026-01-20T14:00",
         "location": "Kunst Universität Linz (AUT)",
         "eventUrl": "",
         "description": "Workshop mit Studierende",
@@ -293,7 +293,7 @@
         "name": "Resonances - A Feedback in Between",
         "date": "2026-11-12T19:30",
         "location": "Kultum, Graz (AUT)",
-        "eventUrl": "",
+        "eventUrl": "https://www.kultum.at/einrichtung/137",
         "description": "Solo Concert and CD Release - Music by M. Ciciliani (premier), H. Kerschbaumer (premier), S. Stefanovic, A. Kobzar (premier), W. Olencki (premier), J. Pranulytė",
         "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
     },
@@ -302,7 +302,7 @@
         "name": "Resonances - A Feedback in Between",
         "date": "2026-12-10T19:30",
         "location": "Röda, Steyr (AUT)",
-        "eventUrl": "",
+        "eventUrl": "https://röda.at/",
         "description": "Solo Concert and CD Release - Music by Music by M. Ciciliani, H. Kerschbaumer, S. Stefanovic, A. Kobzar, W. Olencki, J. Pranulytė",
         "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
     },
@@ -312,7 +312,7 @@
         "date": "2026-06-22",
         "end date": "2026-06-27",
         "location": "Bled (SK)",
-        "eventUrl": "",
+        "eventUrl": "https://enuntiatio-praefatio-formulae.com/FESTIVAL/",
         "description": "Artistic Research Presentation and Contemporary Music Festival",
         "coverUrl": "https://raw.githubusercontent.com/lorenzoorsenigo/lorenzo-orsenigo-website-data/refs/heads/main/img/Research_Lorenzo_.jpg"
     }
